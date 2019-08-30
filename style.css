@@ -1,0 +1,47 @@
+#wrapper{
+  width: 1050px;
+  height: 600px;
+  align-items: center;
+  background-color: #e3eaf4;
+  margin: auto;
+}
+
+#obj1{
+  width: 200px;
+  height: 200px;
+  background-color: #4286f4;
+  float: left;
+  margin-left: 15px;
+}
+
+#obj2{
+  width: 200px;
+  height: 200px;
+  background-color: #d041f4;
+  float: left;
+  margin-left: 5px;
+}
+
+#obj3{
+  width: 200px;
+  height: 200px;
+  background-color: #8d7493;
+  float: left;
+  margin-left: 5px;
+}
+
+#obj4{
+  width: 200px;
+  height: 200px;
+  background-color: #76bc74;
+  float: left;
+  margin-left: 5px;
+}
+
+#obj5{
+  width: 200px;
+  height: 200px;
+  background-color: #e6ed5e;
+  float: left;
+  margin-left: 5px;
+}
